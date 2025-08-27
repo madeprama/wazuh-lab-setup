@@ -14,7 +14,7 @@ The goal of this project is to understand log monitoring, brute force attack det
    - Example: Detecting SSH brute force attempts.  
 
 2. **Rules & Alerting**  
-   - Tested rules with IDs `5710, 5712, 5715` for SSH brute force detection.  
+   - Tested rules with IDs `100101` for SSH brute force detection.  
    - Verified alerts in the Wazuh dashboard (via Kibana).  
 
 3. **Active Response**  
